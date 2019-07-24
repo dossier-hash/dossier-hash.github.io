@@ -1,6 +1,20 @@
+* {
+    text-align: center;
+}
+
+
 .bg-4 { 
     background-color: #2f2f2f;
     color: #ffffff;
     padding: 10px;
     font-size: 1.5vw;
+}
+
+.description {
+    font-size: 1.5vw;
+    color: gray;
+}
+
+.jumbotron {
+    margin-bottom: 10px;
 }
