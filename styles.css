@@ -2,7 +2,6 @@
     text-align: center;
 }
 
-
 .bg-4 { 
     background-color: #2f2f2f;
     color: #ffffff;
@@ -17,4 +16,12 @@
 
 .jumbotron {
     margin-bottom: 10px;
+}
+
+.card {
+	margin: 20px;
+}
+
+.card-img-top {
+	margin-top: 5px;
 }
